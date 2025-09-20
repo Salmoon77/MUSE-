@@ -3,7 +3,7 @@
 **최종 업데이트: 2025년 2월 12일**  
 
 **1. 개요**  
-본 개인정보 보호정책(이하 "정책")은 디스코드 봇 **MUSE**가 사용자 정보를 어떻게 수집, 사용, 보호하는지에 대한 내용을 포함합니다. 봇을 사용함으로써 본 정책에 동의하는 것으로 간주됩니다.  
+본 개인정보 보호정책(이하 "정책")은 디스코드 봇 **ZENA**가 사용자 정보를 어떻게 수집, 사용, 보호하는지에 대한 내용을 포함합니다. 봇을 사용함으로써 본 정책에 동의하는 것으로 간주됩니다.  
 
 **2. 수집하는 정보**  
 봇은 다음과 같은 데이터를 수집할 수 있습니다.  
@@ -57,7 +57,7 @@
 **Last Updated: February 12, 2025**  
 
 ## **1. Overview**  
-This Privacy Policy (hereinafter referred to as the "Policy") explains how the Discord bot **MUSE** collects, uses, and protects user information. By using the bot, you are deemed to have agreed to this Policy.  
+This Privacy Policy (hereinafter referred to as the "Policy") explains how the Discord bot **ZENA** collects, uses, and protects user information. By using the bot, you are deemed to have agreed to this Policy.  
 
 ## **2. Information Collected**  
 The bot may collect the following data:  
